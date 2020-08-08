@@ -12,8 +12,13 @@
     },
     {
       "id": 3,
-      "name": "Sansung S20+",
-      "price": "5000.89"
+      "name": "Sansung S20+ Ultra",
+      "price": "7520.89"
+    },
+    {
+      "name": "iMac",
+      "price": "14990.00",
+      "id": 4
     }
   ]
 }
