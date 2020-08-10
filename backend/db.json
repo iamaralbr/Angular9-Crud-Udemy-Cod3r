@@ -19,6 +19,11 @@
       "name": "iMac",
       "price": "14990.00",
       "id": 4
+    },
+    {
+      "name": "Relógio Digital",
+      "price": "49.99",
+      "id": 5
     }
   ]
 }
